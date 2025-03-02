@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-c
-    backgroundSize: inset
+    backgroundSize: full
     title: ZSY COIN
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
