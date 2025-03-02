@@ -59,16 +59,7 @@ sections:
       medicine and shelter. Donations help provide them with everything they
       need, from medical care to shelter.Every donation is a chance to save
       lives and support those who need it most. 
-    actions:
-      - type: Button
-        label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/1155.webp
