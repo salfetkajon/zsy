@@ -91,7 +91,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     title: How to contribute to peace in Ukraine
-    subtitle: 1. Create
+    subtitle: 1. Create your crypto wallet
     actions:
       - type: Button
         label: Hire me
