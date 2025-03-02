@@ -52,10 +52,7 @@ sections:
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Since the outbreak of full-scale war in Ukraine, millions of people have lost their homes, jobs and access to basic living resources. Many are forced to live without light, water and heat, and children, the elderly and the sick are particularly vulnerable.The humanitarian situation remains difficult, with thousands of families in need of food, medicine and shelter. Donations help provide them with everything they need, from medical care to shelter.Every donation is a chance to save lives and support those who need it most.\_Translated with DeepL.com (free version)"
     actions:
       - type: Button
         label: Hire me
