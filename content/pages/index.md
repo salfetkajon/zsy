@@ -92,7 +92,7 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: ''
+    title: Choose a convenient way for you to help Ukraine
     subtitle: The section subtitle
     text: "### 1. Get Started with Phantom\n\nSet up your Phantom wallet:\n\n*   • Install\_[Phantom Wallet](https://phantom.app/)\n\n*   • Create a new wallet or import existing\n\n*   • Need SOL? You can:\n\n    *   → Buy directly in Phantom with your credit card or buy from a CEX of your choice\n\n    *   → Get from\_[Coinbase](https://www.coinbase.com/)\_or\_[Binance](https://www.binance.com/)\n"
     elementId: ''
