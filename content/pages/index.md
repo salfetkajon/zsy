@@ -35,7 +35,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 0
+        borderWidth: 6
         borderStyle: solid
       title:
         textAlign: left
