@@ -92,7 +92,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: ' Get from Coinbase or Binance'
+    title: Choose a convenient way for you to help Ukraine
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
