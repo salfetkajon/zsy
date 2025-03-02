@@ -90,7 +90,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Choose a convenient way for you to help Ukraine
     subtitle: The section subtitle
