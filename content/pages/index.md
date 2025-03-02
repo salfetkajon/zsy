@@ -61,7 +61,7 @@ sections:
       lives and support those who need it most. 
     actions:
       - type: Button
-        label: Hire me
+        label: ''
         altText: ''
         url: /
         showIcon: true
