@@ -91,7 +91,13 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     title: How to buy ZSY Coin via Phantom Crypto Wallet ?
-    subtitle: 1. Create your crypto wallet
+    subtitle: >-
+      1. Install Phantom WalletPhantom is a wallet for Solana (SOL)
+      cryptocurrency, you need it to buy ZSY Coin.How to install Phantom:Go to
+      the official Phantom website.Download an extension for Chrome, Firefox,
+      Edge or a phone app (iOS, Android).Install and create a wallet (it is very
+      important to write down the secret phrase - without it you won't regain
+      access!).
     actions:
       - type: Button
         label: Hire me
