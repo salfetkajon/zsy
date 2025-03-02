@@ -49,9 +49,7 @@ sections:
     type: HeroSection
     actions: []
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Ukraine needs your help
     subtitle: >-
       Since the outbreak of full-scale war in Ukraine, millions of people have
       lost their homes, jobs and access to basic living resources. Many are
