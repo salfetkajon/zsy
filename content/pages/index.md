@@ -60,7 +60,7 @@ sections:
       remains difficult, with thousands of families in need of food, medicine
       and shelter. Donations help provide them with everything they need, from
       medical care to shelter.Every donation is a chance to save lives and
-      support those who need it most.
+      support those who need it most. 
     actions:
       - type: Button
         label: Hire me
