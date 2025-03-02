@@ -94,7 +94,7 @@ sections:
     variant: variant-a
     title: Choose a convenient way for you to help Ukraine
     subtitle: ''
-    text: "### 1. Get Started with Phantom\n\nSet up your Phantom wallet:\n\n*   • Install\_[Phantom Wallet](https://phantom.app/)\n\n*   • Create a new wallet or import existing\n\n*   • Need SOL? You can:\n\n    *   → Buy directly in Phantom with your credit card or buy from a CEX of your choice\n\n    *   → Get from\_[Coinbase](https://www.coinbase.com/)\_or\_[Binance](https://www.binance.com/)\n"
+    text: "### 1. Get Started with Phantom\n\nSet up your Phantom wallet:\n\n*   • Install\_[Phantom Wallet](https://phantom.app/)\n\n*   • Create a new wallet or import existing\n\n*   • Need SOL? You can:\n\n    *   → Buy directly in Phantom with your credit card or buy from a CEX of your choice\n\n    *   → Get from\_[Coinbase](https://www.coinbase.com/)\_or\_[Binance\n\n\n        ](https://www.binance.com/)\n\n### 2. Swap for $ZSY\n\nGot your SOL?  \n\n*   •\_[Click here to open $ZSY in Phantom](https://phantom.com/tokens/solana/3t4yhNHfy5jZ9skJw9ZMRHvLJw1WUPouJ4TSxatTpump)\n\n*   • Click \"Swap\" in Phantom\n\n*   • Enter the amount of SOL you want to swap\n\n*   • Review and confirm the transaction\n\n*   • Congrats! You bridged.\n\n\n\n\n\n"
     elementId: ''
     styles:
       self:
