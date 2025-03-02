@@ -56,11 +56,11 @@ sections:
       Since the outbreak of full-scale war in Ukraine, millions of people have
       lost their homes, jobs and access to basic living resources. Many are
       forced to live without light, water and heat, and children, the elderly
-      and the sick are particularly vulnerable.The humanitarian situation
-      remains difficult, with thousands of families in need of food, medicine
-      and shelter. Donations help provide them with everything they need, from
-      medical care to shelter.Every donation is a chance to save lives and
-      support those who need it most. 
+      and the sick are particularly vulnerable.         The humanitarian
+      situation remains difficult, with thousands of families in need of food,
+      medicine and shelter. Donations help provide them with everything they
+      need, from medical care to shelter.Every donation is a chance to save
+      lives and support those who need it most. 
     actions:
       - type: Button
         label: Hire me
