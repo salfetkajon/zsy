@@ -90,7 +90,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: How to contribute to peace in Ukraine
+    title: How to buy ZSY Coin via Phantom Crypto Wallet ?
     subtitle: 1. Create your crypto wallet
     actions:
       - type: Button
