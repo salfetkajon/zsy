@@ -14,7 +14,11 @@ sections:
     colors: colors-c
     backgroundSize: full
     title: ZSY COIN
-    subtitle: Zsy coin.
+    subtitle: >-
+      ZSY Coin is a cryptocurrency created specifically to support charitable
+      initiatives in Ukraine. The token allows people around the world to
+      securely, quickly and transparently send donations to help people in need,
+      foundations and humanitarian organizations.
     styles:
       self:
         height: auto
